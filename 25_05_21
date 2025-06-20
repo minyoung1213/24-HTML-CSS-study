@@ -1,0 +1,49 @@
+[여행지 소개 사이트 제작]
+tool: HTML
+추후 CSS를 이용해 전체적인 구성 수정 예정
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+	<header>
+		<title>여행지사이트</title>
+	</header>
+	<hr>
+	<details>
+		<summary>
+			<a href = https://maps.app.goo.gl/dKAApciDjQGppbdU9><img src = "Disney.png" width="300" height="200">
+			</a>
+		</summary>
+		<p>미국 애너하임에 위치한 디즈니랜드를 재현한 테마파크로 미국 외에 최초로 들어선 디즈니랜드이다.  클래식한 디즈니 캐릭터들이 많이 있고 전체적으로 본토의 많은 부분과 비슷하게 만들기 위해 구성되었다. 디즈니랜드의 가치는 디즈니 작품의 세상에 직접 들어가 볼 수 있다는 것이다.</p>
+	</details>
+	<hr>
+	<details>
+    <summary>
+      <a href = https://maps.app.goo.gl/6CapMNUQ5XUUnyFP6><img src="Harry.png" width="300" height="200">
+			</a>
+    </summary>
+    <p>2023년 6월 오픈한 일본의 실내 테마파크로 해리 포터 시리즈와 신비한 동물사전 시리즈의 세계관을 체험할 수 있다. 대한민국에서는 도쿄 해리포터 스튜디오라 불린다. 해리포터 영화 세트 일부(대연회장, 기숙사계단, 해그리드 오두막, 프리뱃가 4번지, 금지된 숲, 다이애건 앨리 등)를 재현하였으며, 영화에서 사용했던 소품 등도 전시되어있다. 세트, 소품, 크리처 등의 제작과정도 볼 수 있으며 움직이는 사진, 퀴디치 응원석이나 빗자루 타기 등을 직접 체험하여 영상으로 만들고 파일을 다운 받을 수도 있다.</p>
+  </details>
+	<hr>
+	<details>
+    <summary>
+      <a href = https://www.google.com/maps/place/Sagrada+Fam%C3%ADlia,+Eixample,+%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98+%EC%8A%A4%ED%8E%98%EC%9D%B8/@41.4060242,2.1668645,15z/data=!3m1!4b1!4m6!3m5!1s0x12a4a2db868f209b:0xdd709ffba518881c!8m2!3d41.4043239!4d2.1746666!16s%2Fg%2F11dy697l3?entry=tts&g_ep=EgoyMDI1MDUxMS4wIPu8ASoASAFQAw%3D%3D&skid=27b07a56-c174-42df-91b9-efa89a2906a8><img src = "Church.png" width="300" height="200">
+			</a>
+    </summary>
+    <p>스페인 카탈루냐 출신의 천재 건축가, 안토니 가우디가 설계, 건축(중)인 대성당이다. 1882년 착공에 들어가 143년이 지난 지금까지도 건축중이며, 2026년에 완공 예정이라고 한다. 창문이 스테인드 글라스로 꾸며져 있는데, 내부에 들어가면 햇빛에 빛나는 스테인드 글라스로 내부가 굉장히  알록달록하다.. 다시 또 가고싶다….</p>
+  </details>
+	<hr>
+	<details>
+    <summary>
+      <a href = https://maps.app.goo.gl/yeburJYFFmtdn6g89><img src = "Spain.png" width="300" height="200">
+</a>
+    </summary>
+    <p>**국내 핸드폰 CF 촬영지로 유명한, 우리나라 여행객들이 필수적으로 방문하는 랜드마크 광장. 1929년 '라틴 아메리카 박람회'를 위해 조성된 거대한 반원형 광장으로, 20세기 세비야 최고의 건축가 '아니발 곤잘레스'의 걸작으로 손꼽힌다. 줄지어 늘어선 기둥들과 함께 큰 원을 그리며 휘어진 웅장한 '안달루시아 자치 공동체 관공서', 그 앞에 길게 뻗어 있는 푸른 수로까지, 이 모든 것이 조화를 이루는 광장의 모습은 마치 수백 년 전 제국 시대로 시간 여행을 떠난 듯한 착각을 들게 한다. 이러한 풍경에 성탄절 캐럴과 형형색색의 조명이 더해지는 '크리스마스' 축제 기간에 방문한다면, 평소보다 더욱 특별한 추억을 남길 수 있으니 참고하자.**
+
+무엇보다 스페인 현지인들의 여유로운 분위기를 느낄 수 있어 기억에 많이 남는 여행지가 될 수 있다.</p>
+  </details>
+</body>
+</html>

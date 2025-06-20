@@ -1,0 +1,31 @@
+w3c를 설립한 버너스 리(의장)
+-HTML 창시자
+
+
+<!DOCTYPE html>
+: 어떤 표준안에 따라 작성한 것인지 기술한 내용
+없어도 작동하나, 정확한 동작을 위해 기술해 놓는 것이 중요하다.
+
+
+Tag Reference
+: Vocaulary 사전 등으로 생각하면 좋다.
+관련링크>
+htttp://dev.w3.org/html5/html-author/
+http://opentutorials.org/course/1058
+
+
+
+h1으로 감싸면 대제목으로 설정이 가능하다.
+목차같은 정보들은 list로 나타낼 수 있다. (<ol>~</ol>)
+h2로 감싸면 소제목으로 설정이 가능하다.
+
+
+<의미론적인 웹: Semantic web>
+정보의 의미를 더 잘 드러내게 웹을 구성한다.
+
+따로 TAG 작성 없이 작성하면:
+Navigation, contents 등의 의미를 한 번에 파악하기 쉽지 않음.
+
+<nav>라는 TAG로 구성할 수 있다
+: 해당 내용이 navigation의 역할을 한다는 것을 파악하기 쉬움
+<header>, <article> 등도 추가 가능!
